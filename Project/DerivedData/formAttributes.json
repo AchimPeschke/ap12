@@ -1,0 +1,20 @@
+﻿{
+	"forms": {
+		"Write_Pro_Print": {
+			"timeStamp": "2019-10-22T08:42:13.480Z",
+			"destination": "detailScreen"
+		},
+		"Write_Pro": {
+			"timeStamp": "2019-10-22T08:42:13.478Z",
+			"destination": "detailScreen"
+		},
+		"Slides": {
+			"timeStamp": "2019-10-22T08:42:13.481Z",
+			"destination": "detailScreen"
+		},
+		"Products_Display": {
+			"timeStamp": "2019-10-22T08:42:13.491Z",
+			"destination": "detailScreen"
+		}
+	}
+}

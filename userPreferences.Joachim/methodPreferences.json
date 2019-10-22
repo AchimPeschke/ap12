@@ -1,0 +1,236 @@
+﻿{
+	"Sources/Methods/DisplayCustomers.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.967Z"
+	},
+	"Sources/Methods/DisplayInvoices.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.968Z"
+	},
+	"Sources/Methods/DisplayProducts.4dm": {
+		"startSelection": 33,
+		"endSelection": 33,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.969Z"
+	},
+	"Sources/Methods/TotalInvoice.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.971Z"
+	},
+	"Sources/Methods/Initialisation.4dm": {
+		"startSelection": 2,
+		"endSelection": 2,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.972Z"
+	},
+	"Sources/Methods/Update_Key.4dm": {
+		"startSelection": 46,
+		"endSelection": 46,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.973Z"
+	},
+	"Sources/Methods/WAK_Get_Invoices.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.974Z"
+	},
+	"Sources/Methods/Return_address.4dm": {
+		"startSelection": 2,
+		"endSelection": 2,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.975Z"
+	},
+	"Sources/Methods/ProcessImagePaths.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 42,
+		"lastSelectedLine": 42,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.976Z"
+	},
+	"Sources/Methods/AP_Show_Products.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.978Z"
+	},
+	"Sources/Methods/Build_Cell_Content.4dm": {
+		"startSelection": 23,
+		"endSelection": 19,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.979Z"
+	},
+	"Sources/Methods/Build_Button.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:12.980Z"
+	},
+	"Sources/DatabaseMethods/onStartup.4dm": {
+		"startSelection": 37,
+		"endSelection": 37,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:47:16.831Z"
+	},
+	"Sources/Forms/Write_Pro/method.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.048Z"
+	},
+	"Sources/Forms/Write_Pro/ObjectMethods/Button9.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.474Z"
+	},
+	"Sources/Forms/Write_Pro/ObjectMethods/Button11.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.475Z"
+	},
+	"Sources/Forms/Write_Pro/ObjectMethods/Button2.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.476Z"
+	},
+	"Sources/Forms/Write_Pro/ObjectMethods/Button14.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.476Z"
+	},
+	"Sources/Forms/Products_Display/ObjectMethods/List Box.4dm": {
+		"startSelection": 27,
+		"endSelection": 39,
+		"firstSelectedLine": 47,
+		"lastSelectedLine": 47,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.485Z"
+	},
+	"Sources/Forms/Products_Display/ObjectMethods/LB.4dm": {
+		"startSelection": 44,
+		"endSelection": 44,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.487Z"
+	},
+	"Sources/Forms/Products_Display/ObjectMethods/Spalte5.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.488Z"
+	},
+	"Sources/TableForms/2/Input/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 12,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.994Z"
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/bPrint.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.997Z"
+	},
+	"Sources/TableForms/2/Input/ObjectMethods/bPrint1.4dm": {
+		"startSelection": 18,
+		"endSelection": 18,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:13.998Z"
+	},
+	"Sources/TableForms/4/Input/method.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:14.032Z"
+	},
+	"Sources/TableForms/5/Input/ObjectMethods/Button.4dm": {
+		"startSelection": 45,
+		"endSelection": 45,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2019-10-22T08:42:14.044Z"
+	}
+}

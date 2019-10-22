@@ -1,0 +1,45 @@
+﻿{
+	"Dossier par défaut": {
+		"groups": [
+			"Formulaires par défaut",
+			"Méthodes projet par défaut",
+			"Tables par défaut"
+		]
+	},
+	"Formulaires par défaut": {
+		"forms": [
+			"[Customers]Input",
+			"[Customers]Output",
+			"[Customers]Print",
+			"[Invoices]Input",
+			"[Invoices]Output",
+			"[Invoices]Print",
+			"[Invoices]PrintList",
+			"[Lines]Input_Output",
+			"[Lines]Print",
+			"[Products]Input",
+			"[Products]Output",
+			"[Products]Print"
+		]
+	},
+	"Méthodes projet par défaut": {
+		"methods": [
+			"Compiler",
+			"DisplayCustomers",
+			"DisplayInvoices",
+			"DisplayProducts",
+			"Initialisation",
+			"TotalInvoice",
+			"TotalLine"
+		]
+	},
+	"Tables par défaut": {
+		"tables": [
+			"Customers",
+			"Invoices",
+			"Lines",
+			"Products"
+		]
+	},
+	"trash": {}
+}
