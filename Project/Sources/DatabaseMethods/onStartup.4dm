@@ -1,3 +1,3 @@
 Initialisation 
-  //$dbfolder:=Get 4D folder(Database folder)
-  //Tools_GitDefineFolder ($dbfolder)
+$dbfolder:=Get 4D folder:C485(Database folder:K5:14)
+Tools_GitDefineFolder ($dbfolder)
